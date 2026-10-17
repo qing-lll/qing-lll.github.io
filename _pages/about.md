@@ -69,9 +69,3 @@ My research focuses on **Data-Centric AI**, particularly **data selection** for 
 
 <span class='anchor' id='education'></span>
 
-# 🎓 Education
-
-- **Ph.D. student in Computer Science**, Shanghai Jiao Tong University, 2023–Present.
-- **Data Science**, The Chinese University of Hong Kong, Shenzhen.
-- **Finance**, Northwest A&F University.
-
