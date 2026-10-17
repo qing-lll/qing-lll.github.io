@@ -25,7 +25,7 @@ My research focuses on **Data-Centric AI**, particularly **data selection** for 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='{{ "/images/papers/lcats.png" | relative_url }}' alt="LCATS research illustration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='{{ "/images/lcats.png" | relative_url }}' alt="LCATS research illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LCATS: LLM-Guided Constraint-Aware Tabular Data Synthesis**
@@ -39,7 +39,7 @@ My research focuses on **Data-Centric AI**, particularly **data selection** for 
 - A constraint-aware tabular synthesis framework that combines LLM-based constraint discovery with diffusion-based data generation and quality optimization.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='{{ "/images/papers/aim.png" | relative_url }}' alt="AIM research illustration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='{{ "/images/aim.png" | relative_url }}' alt="AIM research illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AIM: Manifold-based Data Filtering for Representation Finetuning**
@@ -53,7 +53,7 @@ My research focuses on **Data-Centric AI**, particularly **data selection** for 
 - A representation-based data filtering approach that identifies mislabeled training examples for more robust and efficient finetuning.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='{{ "/images/papers/drift.png" | relative_url }}' alt="DRIFT research illustration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2025</div><img src='{{ "/images/drift.png" | relative_url }}' alt="DRIFT research illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Don't Stop Pre-Training Small Language Models for Continual Enhancement of Reasoning**
