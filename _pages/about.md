@@ -12,8 +12,6 @@ redirect_from:
 
 I am **Qing Li (李晴)**, a Ph.D. student in Computer Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am advised by **Xingchun Diao (刁兴春)** and [**Yanyan Shen (沈艳艳)**](https://shen-yy.github.io/).
 
-Prior to my doctoral studies, I studied **Data Science** at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) and **Finance** at [Northwest A&F University](https://en.nwsuaf.edu.cn/).
-
 My research focuses on **Data-Centric AI**, particularly **data selection** for language model training and **structured data generation**. I am interested in improving the quality, usefulness, and logical consistency of data for machine learning.
 
 <span class='anchor' id='research-interests'></span>
