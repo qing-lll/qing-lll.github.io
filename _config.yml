@@ -17,7 +17,7 @@ baidu_site_verification  :
 
 author:
   name             : "Qing Li | 李晴"
-  avatar           : "images/profile.svg"  # Replace with images/photo.jpg and update this path.
+  avatar           : "images/photo.JPG"  # Replace with images/photo.jpg and update this path.
   bio              : "Ph.D. Student at Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
