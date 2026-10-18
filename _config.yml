@@ -3,7 +3,7 @@
 # This file replaces the upstream _config.yml.
 
 title                    : "Qing Li | Homepage"
-description              : "Data Selection | Structured Data Generation"
+description              : "Training Data Optimization | Structured Data Generation"
 repository               : "qing-lll/qing-lll.github.io"
 url                      : "https://qing-lll.github.io"
 baseurl                  : ""
