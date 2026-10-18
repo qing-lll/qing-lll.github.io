@@ -3,7 +3,7 @@
 # This file replaces the upstream _config.yml.
 
 title                    : "Qing Li | Homepage"
-description              : "Training Data Optimization | Structured Data Generation"
+description              : "Training Data Optimization<br>Structured Data Generation"
 repository               : "qing-lll/qing-lll.github.io"
 url                      : "https://qing-lll.github.io"
 baseurl                  : ""
@@ -18,7 +18,7 @@ baidu_site_verification  :
 author:
   name             : "Qing Li | 李晴"
   avatar           : "images/photo.JPG"  # Replace with images/photo.jpg and update this path.
-  bio              : "Ph.D. Student at Shanghai Jiao Tong University"
+  bio              : "Ph.D. Student at<br>Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   email            : "qing15@sjtu.edu.cn" # Verified from public paper; change if preferred.
