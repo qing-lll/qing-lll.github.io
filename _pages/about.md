@@ -10,16 +10,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Qing Li (李晴)**, a Ph.D. student in Computer Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am advised by **Xingchun Diao (刁兴春)** and [**Yanyan Shen (沈艳艳)**](https://shen-yy.github.io/).
+**Qing Li** is currently a Ph.D. student in Computer Science at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by  **Xingchun Diao** and [**Yanyan Shen**](https://shen-yy.github.io/).
 
-My research focuses on **Data-Centric AI**, particularly **data selection** for language model training and **structured data generation**. I am interested in improving the quality, usefulness, and logical consistency of data for machine learning.
-
+Li's research focuses on **Data-Centric AI**, with particular emphasis on **training data optimization for language models** and **structured data generation**. 
 <span class='anchor' id='research-interests'></span>
 
 # 🔍 Research Interests
 
-- **Data Selection**: Training data valuation, high-quality sample selection, and noisy-label filtering for language models.
-- **Structured Data Generation**: Tabular data synthesis, constraint discovery, and generation quality optimization.
+- **Training Data Optimization**: Data selection, pruning, and quality optimization for language model training.
+- **Structured Data Generation**: High-fidelity data synthesis and quality evaluation.
 
 <span class='anchor' id='publications'></span>
 
